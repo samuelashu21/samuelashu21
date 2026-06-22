@@ -17,4 +17,4 @@ Lecturer at Bahir Dar University, Addis Ababa,Ethiopia
 
 ### Contact
 Email: samuelashu21@gmail.com
-LinkedIn: ...
+ 
