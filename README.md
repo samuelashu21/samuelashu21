@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Samuel
 
-<!--
-**samuelashu21/samuelashu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer,
+Lecturer at Bahir Dar University, Addis Ababa,Ethiopia
 
-Here are some ideas to get you started:
+### Research Interests
+- Machine Learning
+- LLMs
+- Climate Informatics
+- Big Data Analytics
+- Explainable AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Drought Early Warning System
+- Multilingual Medical QA System
+- Cultural Heritage LLM Research
+
+### Contact
+Email: samuelashu21@gmail.com
+LinkedIn: ...
