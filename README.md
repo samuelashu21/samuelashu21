@@ -33,6 +33,8 @@ Published in IEEE Xplore
 ### Featured Projects
 
 * Multilingual Medical Question Answering System
+* https://huggingface.co/spaces/samuelashu/multilingual-healthcare-rag
+* https://multilingual-medical-question-answe.vercel.app/
 ### Technical Skills
 
 * Python
