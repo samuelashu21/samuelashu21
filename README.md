@@ -43,8 +43,9 @@ Published in IEEE Xplore
 * PyTorch
 * FastAPI
 * Node.js
-* Flutter
+* ReactNative
 * React & Next.js
+* TypeScript
 * MongoDB
 * PostgreSQL
 * Docker
