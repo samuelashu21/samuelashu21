@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Ashu
+# 👋 Hi, I'm Samuel Ashagrre Guigsa
 
 ## 🎓 Software Engineer | AI Researcher | Lecturer
 
