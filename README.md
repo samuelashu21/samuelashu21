@@ -13,8 +13,7 @@ My work focuses on developing intelligent systems that address real-world challe
 * 🎓 Lecturer, Department of Software Engineering, Bahir Dar University
 * 🤖 AI & Machine Learning Researcher
 * 📚 IEEE Author and Academic Researcher
-* 💡 Open Source Contributor and Full-Stack Developer
-* 🔬 Interested in interdisciplinary research combining AI, climate science, healthcare, and cultural heritage
+* 🔬 Interested in interdisciplinary research combining AI,and healthcare. 
 
 ---
 
@@ -62,7 +61,6 @@ My work focuses on developing intelligent systems that address real-world challe
 ### Emerging Research Areas
 
 * AI for Sustainable Development
-* Cultural Heritage Informatics
 * Human-Centered AI
 * Responsible AI
 * AI Governance and Ethics
@@ -188,7 +186,7 @@ An AI-powered climate intelligence platform for forecasting drought risk across 
 * JavaScript
 * Java
 * C++
-* SQL
+* SQL\NOSQL
 
 ### Artificial Intelligence & Machine Learning
 
