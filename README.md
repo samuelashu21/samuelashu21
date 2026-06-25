@@ -13,7 +13,6 @@ My work focuses on developing intelligent systems that address real-world challe
 * 🎓 Lecturer, Department of Software Engineering, Bahir Dar University
 * 🤖 AI & Machine Learning Researcher
 * 📚 IEEE Author and Academic Researcher
-* 🌍 Advocate for AI Solutions in Developing Countries
 * 💡 Open Source Contributor and Full-Stack Developer
 * 🔬 Interested in interdisciplinary research combining AI, climate science, healthcare, and cultural heritage
 
@@ -37,7 +36,6 @@ My work focuses on developing intelligent systems that address real-world challe
 * Data Mining
 * Predictive Analytics
 * Climate Informatics
-* Geospatial Analytics
 
 ### Language Technologies
 
@@ -106,7 +104,6 @@ A production-ready multilingual healthcare AI platform that enables users to ask
 * FAISS Semantic Search
 * Multilingual Medical QA
 * FastAPI Backend Services
-* Vector Database Retrieval
 * Responsive Web Interface
 * Mobile Application Support
 * Healthcare Knowledge Base Integration
@@ -131,7 +128,6 @@ A production-ready multilingual healthcare AI platform that enables users to ask
 * Python
 * Hugging Face Transformers
 * FAISS
-* PostgreSQL
 
 **AI/ML**
 
@@ -168,7 +164,6 @@ An AI-powered climate intelligence platform for forecasting drought risk across 
 * Regional Risk Mapping
 * Machine Learning-Based Prediction
 * Interactive Dashboards
-* Geospatial Visualization
 * Climate Decision Support
 
 #### Technologies
@@ -181,20 +176,6 @@ An AI-powered climate intelligence platform for forecasting drought risk across 
 * Docker
 * React / Next.js
 * Machine Learning Models
-
----
-
-### 🏛️ AI for Cultural Heritage Information Exploration
-
-Research-focused platform investigating the application of Large Language Models for cultural heritage preservation, exploration, and knowledge discovery.
-
-#### Research Areas
-
-* Cultural Heritage Knowledge Graphs
-* LLM-based Information Retrieval
-* Semantic Search
-* Heritage Question Answering
-* Digital Preservation
 
 ---
 
@@ -260,24 +241,9 @@ Research-focused platform investigating the application of Large Language Models
 * Climate Risk Prediction using Machine Learning
 * Explainable AI for Decision Support Systems
 * Federated Learning Security
-* AI for Cultural Heritage Preservation
 * Low-Resource African Language Technologies
 * Multilingual Question Answering Systems
 * Climate Informatics and Sustainable Development
-
----
-
-## 🌍 Open Source Contributions
-
-I actively develop and contribute to projects related to:
-
-* Artificial Intelligence
-* Machine Learning
-* Healthcare Informatics
-* Climate Analytics
-* Language Technologies
-* Educational Technology
-* Open Science
 
 ---
 
@@ -287,21 +253,12 @@ I actively develop and contribute to projects related to:
 
 🐙 GitHub: https://github.com/samuelashu21
 
-💼 LinkedIn: Add your LinkedIn profile
+💼 LinkedIn:  
 
-📚 Google Scholar: Add your Google Scholar profile
-
----
-
-## 📈 GitHub Statistics
-
-```text
-Add GitHub Stats Cards Here
-Add GitHub Streak Stats Here
-Add Most Used Languages Card Here
-```
+📚 Google Scholar:  
 
 ---
+ 
 
 ## 💭 Research Vision
 
