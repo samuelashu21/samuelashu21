@@ -91,6 +91,37 @@ This research introduces a transformer-based architecture for identifying semant
 
 ## 🏆 Featured Projects
 
+### 🩺  A Production-Ready Explainable Hybrid Retrieval-Augmented Medical Question Answering System Using MedQuAD, Hybrid Dense–Sparse Retrieval, and Parameter-Efficient Fine-Tuning _Using_MedQuAD
+
+
+A production-ready multilingual healthcare AI platform that enables users to ask medical questions in **English and Amharic** and receive evidence-based responses.
+
+#### Key Features
+
+*  Explainable Medical Retrieval-Augmented Generation
+*  Hybrid Dense–Sparse Medical Retrieval
+*   Metadata-Aware Medical Retrieval
+*   Reciprocal Rank Fusion (RRF)-based Retrieval
+*   Cross-Encoder Medical Evidence Re-ranking
+*    Parameter-Efficient Medical QA Fine-Tuning
+*    Explainable Medical Knowledge Base Construction
+*    Multi-Level Explainability
+*    Confidence-Calibrated Medical QA
+*     Hallucination-Aware Medical Generation
+*  Metadata-Guided Evidence Attribution
+*   Secure Medical AI Inference Pipeline
+*   Production-Ready Medical RAG Deployment
+*    Comprehensive Medical QA Benchmarking
+*    * FastAPI Backend Services
+* Responsive Web Interface
+* Mobile Application Support
+
+  #### Live Demo
+
+🤗 Hugging Face Space
+
+[https://huggingface.co/spaces/samuelashu/multilingual-healthcare-rag](https://huggingface.co/spaces/samuelashu/Medical_Question_Answering_System_Using_MedQuAD/blob/main/README.md)
+
 ### 🩺 Multilingual Medical Question Answering System
 
 A production-ready multilingual healthcare AI platform that enables users to ask medical questions in **English and Amharic** and receive evidence-based responses.
