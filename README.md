@@ -68,7 +68,45 @@ My work focuses on developing intelligent systems that address real-world challe
 ---
 
 ## 📖 Publications
+## 📖 Accepted conference Proceedings
+### 1.  ARE-VIUNet: Attention Residual EfficientNet-Infused U-Net for Brain Tumor Segmentation in Resource-Constrained Settings 
 
+**Publisher:** IEEE Xplore
+
+Developed an EfficientNet-based MRI segmentation model using BraTS-Africa 2023 for AI assisted healthcare in resource-constrained settings. IEEE ICT4DA 2026 — Accepted.
+
+🔗  https://ict4daconf.org/
+
+---
+
+### 2.  Towards Autonomous Scientific Discovery: An AI-Orchestrated Python Framework for Cross-Disciplinary Research Analytics 
+
+**Publisher:** IEEE Xplore
+
+ An AI-powered Python framework for automated, scalable, and reproducible multi-domain 
+scientific research. IEEE ICT4DA 2026 — Accepted. 
+🔗  https://ict4daconf.org/
+
+---
+
+### 3.  An Explainable Hybrid Deep Learning Framework for Automated Brain Abscess Detection and Localization from CT Images  
+
+**Publisher:** IEEE Xplore
+ An explainable deep learning framework for automated, highly accurate detection of bacterial 
+brain abscesses on CT scans. IEEE ICT4DA 2026 — Accepted.  
+🔗  https://ict4daconf.org/
+
+---
+
+### 4.  An Explainable Hybrid Deep Learning Framework for Automated Brain Abscess Detection and Localization from CT Images  
+
+**Publisher:** IEEE Xplore
+An explainable hybrid CNN-Vision Transformer framework for automated peptic ulcer detection 
+and severity grading from endoscopic images. IEEE ICT4DA 2026 — Accepted. 
+🔗  https://ict4daconf.org/
+
+---
+## 📖 Published Publications
 ### 1. Image Captioning in Amharic Language using Deep Convolutional Neural Networks with LSTM
 
 **Publisher:** IEEE Xplore
